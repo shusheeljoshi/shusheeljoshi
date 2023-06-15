@@ -14,12 +14,7 @@
 - 📫 You can reach me at **mjsushil.23.11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/shusheel joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shusheel joshi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shusheel joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shusheel joshi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shusheel joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shusheel joshi" height="30" width="40" /></a>
-
-</p>
+<p> Phone : 9480061155 </p>
 
 <h3 align="left">Languages & Libraries :</h3>
 
